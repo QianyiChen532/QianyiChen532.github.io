@@ -18,7 +18,7 @@ let category_color = {
   'bonding':'#a2cae0',
   'nature':'#b9d28f',
   'leisure':'#a2cebb',
-  'achievement':'#e8af74',
+  'achievement':'#eac196',
   'affection':'#f2c3c0',
   'enjoy_the_moment':'#f88776'
 }
